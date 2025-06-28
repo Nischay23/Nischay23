@@ -1,32 +1,38 @@
 <div align="center">
 
-<!-- Professional Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=header&text=&fontSize=0"/>
+<!-- Creative Animated Header Background -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,25:1a1a2e,50:16213e,75:0f3460,100:533483&height=200&section=header&text=&fontSize=0&animation=fadeIn"/>
 
-<!-- Professional Name Display -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=40&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=600&height=70&lines=Nischay+Khobragade" alt="Name" />
-</h1>
+<!-- Modern Creative Greeting -->
+<div style="margin: -120px 0 50px 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=32&duration=2000&pause=500&color=00F5FF&center=true&vCenter=true&width=600&height=50&lines=👋+Hi%2C+I'm" alt="Greeting" />
+</div>
 
-<!-- Professional Subtitle -->
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=2500&pause=800&color=764ba2&center=true&vCenter=true&width=800&height=60&lines=Full+Stack+Developer+%7C+Cloud+Engineer;CSE+Student+%40+NIT+Goa;Building+Scalable+Web+%26+Mobile+Solutions" alt="Subtitle" />
-</h3>
+<!-- Stylish Name with Gradient Effect -->
+<div style="margin: -30px 0 30px 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=56&duration=3000&pause=1000&color=FF6B35,F7931E,FFD23F,06FFA5,1B98E0,E91E63&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=NISCHAY+KHOBRAGADE;💫+FULL+STACK+DEVELOPER+💫" alt="Name Animation" />
+</div>
 
-<br/>
+<!-- Dynamic Role Descriptions -->
+<div style="margin: -10px 0 40px 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=🚀+Building+Next-Gen+Web+%26+Mobile+Apps;☁️+Cloud+Engineer+%7C+CSE+%40+NIT+Goa;⚡+Turning+Ideas+Into+Digital+Reality;🌟+Currently+Crafting+Scalable+Solutions" alt="Dynamic Roles" />
+</div>
 
-<!-- Professional Icons -->
+<!-- Stylish Social Connect Buttons -->
 <p align="center">
   <a href="https://www.linkedin.com/in/nischay-khobragade-69348b343/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" alt="LinkedIn"/>
   </a>
   <a href="mailto:nischaykhobragade25@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335" alt="Email"/>
   </a>
   <a href="https://github.com/Nischay23">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717" alt="GitHub"/>
   </a>
 </p>
+
+<!-- Creative Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" height="3">
 
 </div>
 
@@ -34,14 +40,36 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&height=50&lines=⚡+Passionate+Developer+%7C+Problem+Solver+⚡" alt="About Header" />
+</div>
+
+<br/>
+
+<img align="right" alt="Dark Coding" width="420" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,245,255,0.3);">
+
+<div style="background: linear-gradient(135deg, #0f0f23 0%, #1a1a2e 100%); padding: 20px; border-radius: 15px; border: 1px solid #00F5FF; box-shadow: 0 4px 15px rgba(0,245,255,0.2);">
+
+### 🚀 **Current Focus**
 
 - 🎓 **Computer Science Engineering** student at **NIT Goa**
 - 💼 Currently working as a **Full Stack Developer Intern**
 - 🌱 Specializing in **React Native** and **Cloud Technologies**
-- 🔭 Building scalable web and mobile applications
-- 🎯 Focused on creating efficient, user-centric solutions
-- 📍 Based in **Nagpur, Maharashtra, India**
+
+### 💡 **What I Do**
+
+- 🔭 Building **scalable web and mobile applications**
+- ⚡ Creating **efficient, user-centric solutions**
+- 🎯 Focused on **modern development practices**
+- 🌐 Exploring **cutting-edge technologies**
+
+### 📍 **Location & Contact**
+
+- 🏠 Based in **Nagpur, Maharashtra, India**
+- 📧 Always open to **collaborations and opportunities**
+- 🤝 Let's build something **amazing together**
+
+</div>
 
 <br clear="both"/>
 
