@@ -145,36 +145,105 @@
 
 ## 💼 What I'm Working On
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&height=50&lines=🚀+Current+Tech+Journey+🚀" alt="Tech Journey" />
+</div>
+
+<br/>
+
+<div style="background: linear-gradient(135deg, #0a1931 0%, #161b22 100%); padding: 25px; border-radius: 20px; border: 1px solid #00F5FF; box-shadow: 0 8px 25px rgba(0,245,255,0.2);">
+
 ```typescript
 const nischay = {
-  currentFocus: ["Full Stack Development", "Cloud Engineering", "Mobile Apps"],
-  learning: ["React Native", "AWS Services", "System Design"],
+  currentFocus: [
+    "🌐 Full Stack Development",
+    "☁️ Cloud Engineering",
+    "📱 Mobile Apps",
+  ],
+  learning: ["⚛️ React Native", "🌩️ AWS Services", "🏗️ System Design"],
   technologies: {
-    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-    backend: ["Node.js", "Express", "MongoDB", "PostgreSQL"],
-    mobile: ["React Native", "Expo"],
-    cloud: ["AWS", "Docker", "CI/CD"],
-    tools: ["Git", "VS Code", "Linux"],
+    frontend: ["⚛️ React", "▲ Next.js", "🔷 TypeScript", "🎨 Tailwind CSS"],
+    backend: ["🟩 Node.js", "🚂 Express", "🍃 MongoDB", "🐘 PostgreSQL"],
+    mobile: ["📱 React Native", "🔮 Expo"],
+    cloud: ["☁️ AWS", "🐳 Docker", "🔄 CI/CD"],
+    tools: ["🔧 Git", "💻 VS Code", "🐧 Linux"],
   },
   currentProjects: [
-    "Building scalable web applications",
-    "Developing mobile apps with React Native",
-    "Learning advanced cloud architectures",
+    "🚀 Building scalable web applications",
+    "📱 Developing mobile apps with React Native",
+    "🌐 Learning advanced cloud architectures",
   ],
   goals: [
-    "Master full-stack development",
-    "Contribute to open source projects",
-    "Build innovative solutions",
+    "🎯 Master full-stack development",
+    "🌟 Contribute to open source projects",
+    "💡 Build innovative solutions",
   ],
 };
 ```
 
----
+</div>
 
-## 📈 Contribution Activity
+<br/>
+
+## 🛠️ Languages & Tools
 
 <div align="center">
-  <img src="https://github.com/Nischay23/Nischay23/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&height=50&lines=⚡+Tech+Stack+%26+Arsenal+⚡" alt="Tech Stack" />
+</div>
+
+<div style="background: linear-gradient(135deg, #0a1931 0%, #161b22 100%); padding: 25px; border-radius: 20px; border: 1px solid #00F5FF; box-shadow: 0 8px 25px rgba(0,245,255,0.2);">
+
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java&theme=dark&perline=5" alt="Programming Languages" />
+  
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark&perline=5" alt="Frontend" />
+  
+  <!-- Backend & Cloud -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,aws,docker&theme=dark&perline=6" alt="Backend & Cloud" />
+  
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,vscode,linux,firebase&theme=dark&perline=4" alt="Tools" />
+</p>
+
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&height=50&lines=📈+Performance+Metrics+📈" alt="Analytics" />
+</div>
+
+<div style="background: linear-gradient(135deg, #0a1931 0%, #161b22 100%); padding: 25px; border-radius: 20px; border: 1px solid #00F5FF; box-shadow: 0 8px 25px rgba(0,245,255,0.2);">
+
+<p align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats-nischay.vercel.app/api?username=Nischay23&show_icons=true&count_private=true&hide_border=true&title_color=00F5FF&icon_color=00F5FF&text_color=c9d1d9&bg_color=0d1117" alt="Nischay's GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Nischay23&hide_border=true&stroke=00F5FF&ring=00F5FF&fire=00F5FF&currStreakNum=00F5FF&sideNums=00F5FF&currStreakLabel=00F5FF&background=0d1117&dates=c9d1d9" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats-nischay.vercel.app/api/top-langs/?username=Nischay23&layout=compact&hide_border=true&title_color=00F5FF&text_color=c9d1d9&bg_color=0d1117" alt="Most Used Languages" />
+  <img width="49%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nischay23&theme=github_dark&hide_border=true&title_color=00F5FF&text_color=c9d1d9" alt="Profile Details" />
+</p>
+
+<!-- GitHub Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nischay23&custom_title=Nischay's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=00F5FF&line=00F5FF&point=00F5FF&area_color=00F5FF&area=true&hide_border=true" alt="Activity Graph" />
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nischay23&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Nischay23/Nischay23/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Nischay23/Nischay23/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake Animation" src="https://github.com/Nischay23/Nischay23/blob/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
 </div>
 
 ---
