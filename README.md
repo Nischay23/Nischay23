@@ -130,20 +130,7 @@
 
 ---
 
-## 📈 Coding Activity
 
-<div align="center">
-
-<!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 📦 Used in GitHub's Storage 
- > 
-> 🏆 Contributed to projects
- > 
-> 📜 Public Repositories 
- > 
-> 🔑 Private Repositories 
 
 📊 **This Week I Spent My Time On** 
 
