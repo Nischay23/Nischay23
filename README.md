@@ -1,27 +1,38 @@
 <div align="center">
 
-<!-- Creative Background Header -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=200&color=gradient&customColorList=0,2,4,6,8&section=header&text=&animation=scaleIn" />
+<!-- Enhanced Background Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:667eea,50:764ba2,100:f093fb&section=header&text=&animation=fadeIn" />
 
-<div style="margin-top: -150px; margin-bottom: 50px;">
+<div style="margin-top: -180px; margin-bottom: 60px;">
   
-  <!-- Simple Cursive Greeting -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=45&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=80&lines=Hey+I+am+Nischay!+✨" alt="Greeting" />
+  <!-- Elegant Cursive Greeting -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=50&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=90&lines=Hey+I+am+Nischay!+✨;Welcome+to+my+Profile!+🚀" alt="Greeting" />
   
-  <br/><br/>
+  <br/>
   
-  <!-- Social Links -->
-  <p align="center">
-    <a href="https://www.linkedin.com/in/nischay-khobragade-69348b343/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <!-- Stylish Social Connect -->
+  <div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=18&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=30&lines=Let's+Connect!+🤝" alt="Connect Text" />
+    <br/><br/>
+    
+    <!-- Enhanced Social Links with Icons -->
+    <a href="https://www.linkedin.com/in/nischay-khobragade-69348b343/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" height="45"/>
     </a>
-    <a href="mailto:nischaykhobragade25@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    &nbsp;&nbsp;
+    <a href="mailto:nischaykhobragade25@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" height="45"/>
     </a>
-    <a href="https://github.com/Nischay23">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    &nbsp;&nbsp;
+    <a href="https://github.com/Nischay23" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" height="45"/>
     </a>
-  </p>
+  </div>
+  
+  <br/>
+  
+  <!-- Animated Separator -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800" height="4"/>
   
 </div>
 
@@ -30,40 +41,45 @@
 ## 👨‍💻 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&width=400&height=50&lines=Passionate+Developer+✨" alt="About Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=2000&pause=1000&color=667eea&center=true&vCenter=true&width=500&height=50&lines=Passionate+Developer+✨;Code+%7C+Create+%7C+Innovate+🚀" alt="About Header" />
 </div>
 
-<br/>
-
-<img align="right" alt="Coding GIF" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" style="border-radius: 15px;">
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
 ### 🚀 **Who I Am**
 
-- 🎓 **Computer Science Engineering** student at **NIT Goa**
-- 💼 Currently working as a **Full Stack Developer Intern**
-- 🌱 Specializing in **React Native** and **Cloud Technologies**
+- 🎓 **CSE Student** at **NIT Goa**
+- 💼 **Full Stack Developer Intern**
+- 🌱 **React Native & Cloud** Specialist
+- 🏠 Based in **Nagpur, Maharashtra**
 
 ### 💡 **What I Do**
 
-- 🔭 Building **scalable web and mobile applications**
-- ⚡ Creating **efficient, user-centric solutions**
-- 🎯 Focused on **modern development practices**
-- 🌐 Exploring **cutting-edge technologies**
+- 🔭 Building **scalable applications**
+- ⚡ Creating **user-centric solutions**
+- 🎯 Exploring **modern tech stacks**
+- 🌐 Contributing to **open source**
 
-### 🌟 **My Goals**
+</td>
+<td width="50%" valign="top">
 
-- 🎖️ Master **full-stack development**
-- 🤝 Contribute to **open source projects**
-- 💡 Build **innovative solutions** that make a difference
-- 📈 Continuously **learning and growing** in tech
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" style="border-radius: 15px;">
+  <br/><br/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+</div>
 
-### 📍 **Connect With Me**
+</td>
+</tr>
+</table>
 
-- 🏠 Based in **Nagpur, Maharashtra, India**
-- 📧 Always open to **collaborations and opportunities**
-- 💬 Let's build something **amazing together**!
-
-<br clear="both"/>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=18&duration=3000&pause=1000&color=f093fb&center=true&vCenter=true&width=600&height=40&lines=💬+Always+open+to+collaborations+and+opportunities!;🚀+Let's+build+something+amazing+together!" alt="Connect Message" />
+</div>
 
 ---
 
@@ -114,8 +130,27 @@
   </picture>
 </div>
 
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:161B22,70:21262D,100:30363D&height=120&section=footer"/>
+  
+  <!-- Thank You Message -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=35&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=600&height=60&lines=Thanks+for+visiting!+✨;Let's+connect+and+collaborate!+🤝;Happy+Coding!+🚀" alt="Thank You" />
+  
+  <br/>
+  
+  <!-- Animated Footer Icons -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="50">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="50">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50">
+  
+  <br/><br/>
+  
+  <!-- Enhanced Footer Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=150&section=footer&text=&animation=twinkling"/>
+  
 </div>
 
 </div>
