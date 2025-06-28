@@ -114,23 +114,6 @@
 
 ---
 
-## 🎵 Currently Vibing To
-
-<div align="center">
-  
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31foypill7fsbwkmcb5pjp4fd35a&count=1&unique=true)](https://open.spotify.com/user/31foypill7fsbwkmcb5pjp4fd35a)
-
-</div>
-
----
-
-## 💻 Random Dev Quote
-
-<div align="center">
-  
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
 
 ---
 
@@ -162,14 +145,6 @@
  > 
 > 🔑 Private Repositories 
 
-**I'm an Early 🐤** 
-
-```text
-🌅 Morning                ████████░░░░░░░░░░░░░   32.0% 
-🌆 Daytime                ████████████░░░░░░░░░   48.0% 
-🌃 Evening                ████░░░░░░░░░░░░░░░░░   16.0% 
-🌙 Night                  █░░░░░░░░░░░░░░░░░░░░   04.0%
-```
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -187,8 +162,6 @@ Python                   ██░░░░░░░░░░░░░░░░�
 
 <div align="center">
   
-### 🌟 "Code is like humor. When you have to explain it, it's bad." 🌟
-
 <img src="https://komarev.com/ghpvc/?username=Nischay23&style=for-the-badge&color=7AA2F7&label=Profile+Views" alt="Profile Views" />
 
 ### 🐧 Thanks for stopping by! Let's build something amazing together! 🚀
