@@ -14,28 +14,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=18&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=30&lines=Let's+Connect!+🤝" alt="Connect Text" />
   
   <br/><br/>
-  
-  <!-- Stylish Social Links -->
-  <a href="https://www.linkedin.com/in/nischay-khobragade-69348b343/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:nischaykhobragade25@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Nischay23" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" height="40"/>
-  </a>
-  
-  <br/><br/>
-  
+
+
   <!-- Separator Line -->
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" height="3"/>
   
 </div>
-
----
 
 ## 👨‍💻 About Me
 
@@ -168,8 +152,6 @@
   
   <br/>
 
-      <br/>
-
   <!-- Social Links -->
   <div align="center">
     <a href="https://www.linkedin.com/in/nischay-khobragade-69348b343/" target="_blank">
@@ -186,14 +168,8 @@
   </div>
   
   <br/>
-  
-  <!-- Footer Message -->
-  <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&duration=2000&pause=1000&color=667eea&center=true&vCenter=true&width=500&height=40&lines=🌟+Let's+Build+the+Future+Together!+🌟" alt="Footer Message" />
-    <br/>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=400&size=16&duration=3000&pause=1500&color=764ba2&center=true&vCenter=true&width=450&height=30&lines=Open+to+collaborations+•+Always+learning+•+Ready+to+innovate" alt="Footer Tagline" />
-  </div>
-  
+
+
   <br/>
   
   <!-- Enhanced Footer Wave with Animation -->
