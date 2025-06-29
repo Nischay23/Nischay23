@@ -3,7 +3,7 @@
 <!-- Elegant Header Background -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:667eea,100:764ba2&section=header&text=&animation=fadeIn" />
 
-<div style="margin-top: -150px; margin-bottom: 50px;">
+<div style="margin-top: -150px; margin-bottom: 30px;">
   
   <!-- Stylish Cursive Greeting -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=45&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=Hey+I+am+Nischay!+✨;Welcome+to+my+Profile!+🚀" alt="Greeting" />
@@ -94,8 +94,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=false&width=435&height=50&lines=Tech+Stack" alt="Tech Stack"/>
 </div>
@@ -105,8 +103,6 @@
 </p>
 
 ---
-
-## 📊 GitHub Statistics
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=false&width=435&height=50&lines=GitHub+Statistics" alt="GitHub Stats"/>
@@ -171,20 +167,29 @@
   </div>
   
   <br/>
-  
-  <!-- Social Stats -->
+
+    <br/>
+
+  <!-- Social Links -->
   <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Nischay23&style=for-the-badge&color=667eea&label=Profile+Views" alt="Profile Views"/>
-    <img src="https://img.shields.io/github/followers/Nischay23?style=for-the-badge&color=764ba2&labelColor=667eea&label=Followers" alt="Followers"/>
+    <a href="https://www.linkedin.com/in/nischay-khobragade-69348b343/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" height="35"/>
+    </a>
+    &nbsp;&nbsp;
+    <a href="mailto:nischaykhobragade25@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" height="35"/>
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.instagram.com/nischay_010/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" height="35"/>
+    </a>
   </div>
   
   <br/>
   
   <!-- Footer Message -->
   <div style="background: linear-gradient(90deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px; max-width: 600px; margin-left: auto; margin-right: auto;">
-    <h3 style="color: white; margin: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-      🌟 Let's Build the Future Together! 🌟
-    </h3>
+  
     <p style="color: #f0f0f0; margin: 10px 0 0 0; font-size: 16px;">
       Open to collaborations • Always learning • Ready to innovate
     </p>
