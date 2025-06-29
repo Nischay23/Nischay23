@@ -168,7 +168,7 @@
   
   <br/>
 
-    <br/>
+      <br/>
 
   <!-- Social Links -->
   <div align="center">
@@ -188,11 +188,10 @@
   <br/>
   
   <!-- Footer Message -->
-  <div style="background: linear-gradient(90deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px; max-width: 600px; margin-left: auto; margin-right: auto;">
-  
-    <p style="color: #f0f0f0; margin: 10px 0 0 0; font-size: 16px;">
-      Open to collaborations • Always learning • Ready to innovate
-    </p>
+  <div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&duration=2000&pause=1000&color=667eea&center=true&vCenter=true&width=500&height=40&lines=🌟+Let's+Build+the+Future+Together!+🌟" alt="Footer Message" />
+    <br/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=400&size=16&duration=3000&pause=1500&color=764ba2&center=true&vCenter=true&width=450&height=30&lines=Open+to+collaborations+•+Always+learning+•+Ready+to+innovate" alt="Footer Tagline" />
   </div>
   
   <br/>
