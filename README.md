@@ -14,8 +14,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=18&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=30&lines=Let's+Connect!+🤝" alt="Connect Text" />
   
   <br/><br/>
-
-
+  
   <!-- Separator Line -->
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" height="3"/>
   
@@ -78,6 +77,8 @@
 
 ---
 
+## 🛠️ Tech Stack
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=false&width=435&height=50&lines=Tech+Stack" alt="Tech Stack"/>
 </div>
@@ -87,6 +88,8 @@
 </p>
 
 ---
+
+## 📊 GitHub Statistics
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=false&width=435&height=50&lines=GitHub+Statistics" alt="GitHub Stats"/>
@@ -151,7 +154,7 @@
   </div>
   
   <br/>
-
+  
   <!-- Social Links -->
   <div align="center">
     <a href="https://www.linkedin.com/in/nischay-khobragade-69348b343/" target="_blank">
@@ -167,9 +170,6 @@
     </a>
   </div>
   
-  <br/>
-
-
   <br/>
   
   <!-- Enhanced Footer Wave with Animation -->
