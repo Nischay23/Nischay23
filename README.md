@@ -1,14 +1,14 @@
 <div align="center">
 
-<!-- Enhanced Background Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:667eea,50:764ba2,100:f093fb&section=header&text=&animation=fadeIn" />
+<!-- Simple Cursive Greeting -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=50&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=80&lines=Hey+I+am+Nischay!+✨" alt="Greeting" />
 
-<div style="margin-top: -180px; margin-bottom: 60px;">
-  
-  <!-- Elegant Cursive Greeting -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=50&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=90&lines=Hey+I+am+Nischay!+✨;Welcome+to+my+Profile!+🚀" alt="Greeting" />
-  
-  <br/>
+<br/>
+
+<!-- Background Below Intro -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:667eea,50:764ba2,100:f093fb&section=header&text=&animation=fadeIn" />
+
+<div style="margin-top: -100px; margin-bottom: 50px;">
   
   <!-- Stylish Social Connect -->
   <div align="center">
@@ -44,9 +44,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=2000&pause=1000&color=667eea&center=true&vCenter=true&width=500&height=50&lines=Passionate+Developer+✨;Code+%7C+Create+%7C+Innovate+🚀" alt="About Header" />
 </div>
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+<br/>
+
+<img align="right" alt="Coding GIF" width="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="border-radius: 15px;">
 
 ### 🚀 **Who I Am**
 
@@ -62,23 +62,17 @@
 - 🎯 Exploring **modern tech stacks**
 - 🌐 Contributing to **open source**
 
-</td>
-<td width="50%" valign="top">
+### 🌟 **Let's Connect!**
+
+- 💬 Always open to **collaborations and opportunities**
+- 🚀 Let's build something **amazing together**!
+
+<br clear="both"/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" style="border-radius: 15px;">
-  <br/><br/>
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-</div>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=18&duration=3000&pause=1000&color=f093fb&center=true&vCenter=true&width=600&height=40&lines=💬+Always+open+to+collaborations+and+opportunities!;🚀+Let's+build+something+amazing+together!" alt="Connect Message" />
 </div>
 
 ---
